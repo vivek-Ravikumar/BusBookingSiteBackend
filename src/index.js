@@ -4,7 +4,7 @@ const busRouter = require("./Routers/busRouter");
 
 const app = express();
 
-app.use("/api/user", userRouter);
+//app.use("/api/user", userRouter);
 app.use("/api/bus", busRouter);
 
 app.get("/", (req, res) => {
