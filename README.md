@@ -1,2 +1,0 @@
-# BusBookingSiteBackend
-Created with CodeSandbox
